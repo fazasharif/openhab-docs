@@ -1,6 +1,4 @@
-# openHAB Documentation Project
 
-## Introduction
 
 This repository contains the documentation for openHAB.x.
 
