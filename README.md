@@ -58,9 +58,5 @@ _source/addons/io
 _source/addons/uis
 ```
 
-The generation/update of these files can be triggered through `mvn clean package` in the repo root.
-Please note that this repository works with sub-modules, so if you want to run this Maven generation, you should check out the repository recursively:
-
-```
-git clone --recursive https://github.com/openhab/openhab-docs
+The generation/update of these files can be triggered
 ```
