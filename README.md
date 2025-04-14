@@ -1,9 +1,4 @@
 
-
-This repository contains the documentation for openHAB.x.
-
-The result is available at [https://openhab.org/docs/](https://www.openhab.org/docs/) and [https://openhab.org/addons/](https://www.openhab.org/addons/).
-
 ## How it works
 
 In this repo you can find and improve all _general_ documentation contents.
